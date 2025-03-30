@@ -22,93 +22,14 @@
 ## 🌐 Live Demo
 
 Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
+[Purnendu Dutta-3D-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
 
 ## 📝 Description
 
-**3D Portfolio** is a well-designed and fully functional portfolio website that is built with
+It is a well-designed and fully functional portfolio website that is built with
 React.js and Three.js. It is a fully responsive website that works well on all devices.
 
-<details><summary><b>Folder Structure</b></summary>
 
-```bash
-reactjs18-3d-portfolio/
-├── src/
-├   ├── App.tsx
-├   ├── globals.css
-├   ├── main.tsx
-├   ├── vite.env.d.ts
-├   ├── components/
-├   ├   ├── atoms/
-├   ├   ├   └── Header.tsx
-├   ├   ├── canvas/
-├   ├   ├   ├── Ball.tsx
-├   ├   ├   ├── Computers.tsx
-├   ├   ├   ├── Earth.tsx
-├   ├   ├   ├── Stars.tsx
-├   ├   ├   └── index.ts
-├   ├   ├── layout/
-├   ├   ├   ├── Loader.tsx
-├   ├   ├   └── Navbar.tsx
-├   ├   ├── sections/
-├   ├   ├   ├── About.tsx
-├   ├   ├   ├── Contact.tsx
-├   ├   ├   ├── Experience.tsx
-├   ├   ├   ├── Feedbacks.tsx
-├   ├   ├   ├── Hero.tsx
-├   ├   ├   ├── Tech.tsx
-├   ├   ├   ├── Works.tsx
-├   ├   ├   └── page.tsx
-├   ├   └── index.ts
-├   ├── constants/
-├   ├   ├── config.ts
-├   ├   ├── styles.ts
-├   ├   └── index.ts
-├   ├── hoc/
-├   ├   ├── SectionWrapper.tsx
-├   ├   └── index.ts
-├   ├── utils/
-├   ├   └── motion.ts
-├   ├── types/
-├   ├   └── index.d.ts
-├   └── assets/
-├       ├── company/
-├       ├   └── [[...]].{svg,png}
-├       ├── tech/
-├       ├   └── [[...]].{svg,png}
-├       ├── [[...]].{svg,png}
-├       └── index.ts
-├── public/
-├   ├── desktop_pc
-├   ├   ├── textures/[[...]].png
-├   ├   ├── license.txt
-├   ├   ├── scene.bin
-├   ├   └── scene.gltf
-├   ├── planet
-├   ├   ├── textures/[[...]].png
-├   ├   ├── license.txt
-├   ├   ├── scene.bin
-├   ├   └── scene.gltf
-├   ├── logo.png
-├   └── logo.svg
-├── .env
-├── .eslintignore
-├── .eslintrc.cjs
-├── .gitignore
-├── .prettierignore
-├── .prettierrc.cjs
-├── index.html
-├── LICENSE
-├── README.md
-├── package.json
-├── postcss.config.cjs
-├── tailwind.config.cjs
-├── tsconfig.json
-├── tsconfig.node.json
-└── vite.config.js
-```
-
-</details>
 
 ## 📖 Table of Contents
 
@@ -131,7 +52,6 @@ reactjs18-3d-portfolio/
 - [Acknowledgements](#-acknowledgements)
 - [References](#-references)
 - [Contact Us](#-contact-us)
-- [License](#-license)
 
 </details>
 
@@ -190,7 +110,7 @@ variables in `.env` file.
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/ladunjexa/reactjs18-3d-portfolio.git
+git clone https://github.com/Purnendudutta/
 ```
 
 **Step 2:**
@@ -240,28 +160,7 @@ to create an account and get the required credentials to run the app.
 Create a `.env` file in the root directory of the project and add the following environment
 variables:
 
-```env
-VITE_EMAILJS_SERVICE_ID=<VITE_EMAILJS_SERVICE_ID>
-VITE_EMAILJS_TEMPLATE_ID=<VITE_EMAILJS_TEMPLATE_ID>
-VITE_EMAIL_JS_ACCESS_TOKEN=<VITE_EMAIL_JS_ACCESS_TOKEN>
-```
-
 ## 🚀 Deployment
-
-#### Deploy to production (manual)
-
-You can create an optimized production build with the following command:
-
-```bash
-npm run build
-```
-
-#### Deploy on Vercel (recommended)
-
-The easiest way to deploy this Next.js app is to use the
-[Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fladunjexa%2Freactjs18-3d-portfolio)
 
 #### Deploy on Netlify
 
@@ -270,10 +169,6 @@ You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ladunjexa/reactjs18-3d-portfolio)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## 🔧 Contributing
-
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/reactjs18-3d-portfolio)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and
 create. Any contributions you make are **greatly appreciated**.
@@ -286,16 +181,6 @@ To fix a bug or enhance an existing module, follow these steps:
 4. Commit your changes (`git commit -am 'Improve feature'`)
 5. Push to the branch (`git push origin improve-feature`)
 6. Create a Pull Request 🎉
-
-### 📩 Bug / Feature Request
-
-If you find a bug (failure of a module to execute its intended function), kindly open an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new) by including the issue with a
-title and clear description.
-
-If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new). Please include sample
-queries and their corresponding results.
 
 ## 💎 Acknowledgements
 
