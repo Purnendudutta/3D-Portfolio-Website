@@ -1,4 +1,4 @@
-# 3D Portfolio
+# 3D Portfolio Website
 
 ## 📖 Table of Contents
 
@@ -20,6 +20,7 @@
 </details>
 
 ## 🌐 Live Demo
+
 Explore the live demonstration of the project:
 [Purnendu Dutta-3D-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
 
@@ -30,7 +31,7 @@ React.js and Three.js. It is a fully responsive website that works well on all d
 
 ## ✨ Technologies Used
 
-<details><summary><b>3D Portfolio</b> is built using the following technologies:</summary>
+<details><summary><b>This 3D Portfolio Website</b> is built using the following technologies:</summary>
 
 - [TypeScript](https://www.typescriptlang.org/): TypeScript is a typed superset of JavaScript that
   compiles to plain JavaScript.
@@ -83,7 +84,7 @@ variables in `.env` file.
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/Purnendudutta/
+git clone https://github.com/Purnendudutta/3D-Portfolio-Website
 ```
 
 **Step 2:**
@@ -127,7 +128,7 @@ Environment variables[^3] can be used for configuration. They must be set before
 > [Environment variables](https://en.wikipedia.org/wiki/Environment_variable) are variables that are
 > set in the operating system or shell, typically used to configure programs.
 
-**React.js 18 3D Portfolio** uses [EmailJS](https://www.emailjs.com/) as external service. You need
+**3D Portfolio Website** uses [EmailJS](https://www.emailjs.com/) as external service. You need
 to create an account and get the required credentials to run the app.
 
 Create a `.env` file in the root directory of the project and add the following environment
@@ -154,11 +155,11 @@ To fix a bug or enhance an existing module, follow these steps:
 ### 📩 Bug / Feature Request
 
 If you find a bug (failure of a module to execute its intended function), kindly open an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new) by including the issue with a
+[here](https://github.com/Purnendudutta/3D-Portfolio-Website/issues/new) by including the issue with a
 title and clear description.
 
 If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new). Please include sample
+[here](https://github.com/Purnendudutta/3D-Portfolio-Website/issues/new). Please include sample
 queries and their corresponding results.
 
 ## 💎 Acknowledgements
@@ -176,9 +177,8 @@ possible:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Vercel](https://vercel.com/)
-- [JavaScript Mastery](https://www.jsmastery.pro/)
 
-## 📞 Contact Us
+## 📞 Connect with me
 
 <a href="https://twitter.com/purnendu521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purnendu521" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/purnendudutta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Purnendu-Dutta" height="30" width="40" /></a>
