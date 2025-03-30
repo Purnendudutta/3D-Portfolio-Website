@@ -180,11 +180,7 @@ possible:
 
 ## 📞 Contact Us
 
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/ladunjexa) -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Purnendu-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/purnendudutta)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/purnendudutta07/)
-
-<!-- [![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/827996364331810816) -->
-
-[![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://x.com/Purnendu_7)
+<a href="https://twitter.com/purnendu521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purnendu521" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/purnendudutta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Purnendu-Dutta" height="30" width="40" /></a>
+<a href="https://fb.com/purnendu.dutta.750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purnendu.dutta.750" height="30" width="40" /></a>
+<a href="https://instagram.com/purnendudutta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purnendudutta07" height="30" width="40" /></a>
