@@ -22,7 +22,7 @@
 ## 🌐 Live Demo
 
 Explore the live demonstration of the project:
-[Purnendu Dutta-3D-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
+[Purnendu Dutta-3D-portfolio](https://purnendu-dutta.netlify.app/)
 
 ## 📝 Description
 
