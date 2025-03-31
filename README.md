@@ -131,9 +131,6 @@ Environment variables[^3] can be used for configuration. They must be set before
 **3D Portfolio Website** uses [EmailJS](https://www.emailjs.com/) as external service. You need
 to create an account and get the required credentials to run the app.
 
-Create a `.env` file in the root directory of the project and add the following environment
-variables:
-
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## 🔧 Contributing
